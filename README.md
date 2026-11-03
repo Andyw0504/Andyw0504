@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3AF7DA&center=true&vCenter=true&random=false&width=640&lines=Web+Security+%2F+Penetration+Testing;CTF+Player+%7C+Bug+Hunter;Talk+is+cheap.+Show+me+the+shell." alt="Typing SVG" />
 
-# 你好，我是 Andyw 👾
 
 **Security Researcher · Web 安全 / 渗透测试 / CTF**
 
